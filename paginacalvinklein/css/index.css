@@ -1,0 +1,33 @@
+#header {
+	background-color: white;
+	position: fixed;
+	display: block;
+	text-align: center;
+	top: 1px;
+	width: 99%;
+	height: 80px;
+}
+ #main {
+	background-color: white;
+	text-align: center;
+	padding-top: 110px;
+	width: 100%;
+	display: block;
+}
+#footer {
+	background-color: white;
+	text-align: center;
+	position: fixed;
+	bottom: 1px;
+	width: 100%;
+	display: block;
+}
+h4{
+	text-align: center;
+}
+a:hover{
+	color: purple;
+}
+a{
+	text-decoration: none;
+}
